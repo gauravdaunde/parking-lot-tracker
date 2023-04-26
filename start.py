@@ -102,5 +102,5 @@ if __name__ == '__main__':
                 break
 
         print()
-        if input('Press Any Key to continue'):
+        if input('Press Enter to continue'):
             continue
